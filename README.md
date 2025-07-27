@@ -6,3 +6,5 @@ online voting system backend
 <img width="1122" height="896" alt="Screenshot 2025-07-27 184951" src="https://github.com/user-attachments/assets/d25e016a-5da6-4f70-a155-c47d8bf37018" />
 
 ##swamini
+##Samruddhi Bhosale
+
